@@ -1,5 +1,7 @@
 # imagemin-jpegtran
 
+默认使用淘宝镜像，或者通过环境变量 `JPEGTRAN_BINARY_SITE` 设置
+
 > jpegtran imagemin plugin
 
 ## Install

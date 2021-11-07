@@ -1,7 +1,7 @@
 'use strict';
 const execBuffer = require('exec-buffer');
 const isJpg = require('is-jpg');
-const jpegtran = require('jpegtran-bin');
+const jpegtran = require('jpegtran-bin-cn');
 
 module.exports = options => buf => {
 	options = {...options};
